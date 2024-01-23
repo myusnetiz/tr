@@ -4268,47 +4268,47 @@ msgid "Your following feed is empty! Follow more users to see what's happening."
 msgstr ""
 
 #: src/view/com/auth/create/Step3.tsx:42
-msgid "Your full handle will be"
+msgid "Tam tanıtıcınız şöyle olacak"
 msgstr ""
 
 #: src/view/com/modals/ChangeHandle.tsx:270
-msgid "Your full handle will be <0>@{0}</0>"
+msgid "Tam tanıtıcınız şöyle olacak <0>@{0}</0>"
 msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:53
-#~ msgid "Your hosting provider"
+#~ msgid "Barındırma sağlayıcınız"
 #~ msgstr ""
 
 #: src/view/screens/Settings.tsx:430
 #: src/view/shell/desktop/RightNav.tsx:137
 #: src/view/shell/Drawer.tsx:660
-msgid "Your invite codes are hidden when logged in using an App Password"
+msgid "Bir Uygulama Parolası kullanarak oturum açtığınızda davet kodlarınız gizlenir"
 msgstr ""
 
 #: src/view/com/composer/Composer.tsx:267
-msgid "Your post has been published"
+msgid "Gönderiniz yayınlandı"
 msgstr ""
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:59
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:59
-msgid "Your posts, likes, and blocks are public. Mutes are private."
+msgid "Gönderileriniz, beğenileriniz ve engellemeleriniz herkese açıktır. Sessize alma özeldir."
 msgstr ""
 
 #: src/view/com/modals/SwitchAccount.tsx:84
 #: src/view/screens/Settings.tsx:125
-msgid "Your profile"
+msgid "Profiliniz"
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:205
-#~ msgid "Your profile and account will not be visible to anyone visiting the Bluesky app without an account, or to account holders who are not logged in. Enabling this will not make your profile private."
+#~ msgid "Profiliniz ve hesabınız, hesabı olmayan Bluesky uygulamasını ziyaret eden herhangi biri veya oturum açmamış hesap sahipleri tarafından görülemeyecektir. Bunu etkinleştirmek profilinizi gizli yapmaz."
 #~ msgstr ""
 
 #: src/view/screens/Moderation.tsx:220
-#~ msgid "Your profile and content will not be visible to anyone visiting the Bluesky app without an account. Enabling this will not make your profile private."
+#~ msgid "Profiliniz ve içeriğiniz, bir hesap olmadan Bluesky uygulamasını ziyaret eden hiç kimse tarafından görülemeyecektir. Bunu etkinleştirmek profilinizi gizli yapmaz."
 #~ msgstr ""
 
 #: src/view/screens/Moderation.tsx:220
-#~ msgid "Your profile and posts will not be visible to people visiting the Bluesky app or website without having an account and being logged in."
+#~ msgid "Profiliniz ve gönderileriniz, bir hesaba sahip olmadan ve oturum açmadan Bluesky uygulamasını veya web sitesini ziyaret eden kişiler tarafından görülemeyecektir. "
 #~ msgstr ""
 
 #: src/view/com/composer/Composer.tsx:266
