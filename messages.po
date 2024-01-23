@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 23-01-2024 21:34-0800\n"
+"POT-Creation-Date: 23-01-2024 22:34-0800\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1724,105 +1724,105 @@ msgid "Kayıt sırasında kullandığınız kullanıcı adını veya eposta adre
 msgstr ""
 
 #: src/view/com/auth/create/Step2.tsx:268
-msgid "Input the verification code we have texted to you"
+msgid "Size mesajla gönderdiğimiz doğrulama kodunu giriniz"
 msgstr ""
 
 #: src/view/com/modals/Waitlist.tsx:90
-msgid "Input your email to get on the Bluesky waitlist"
+msgid "Bluesky bekleme listesine girmek için e-postanızı giriniz"
 msgstr ""
 
 #: src/view/com/auth/login/LoginForm.tsx:226
-msgid "Input your password"
+msgid "Parolanızı giriniz"
 msgstr ""
 
 #: src/view/com/auth/create/Step3.tsx:39
-msgid "Input your user handle"
+msgid "Kullanıcı tanıtıcınızı giriniz"
 msgstr ""
 
 #: src/view/com/post-thread/PostThreadItem.tsx:229
-msgid "Invalid or unsupported post record"
+msgid "Geçersiz veya desteklenmeyen posta kaydı"
 msgstr ""
 
 #: src/view/com/auth/login/LoginForm.tsx:115
-msgid "Invalid username or password"
+msgid "Geçersiz kullanıcı adı veya parola"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:411
-msgid "Invite"
+msgid "Davetiye"
 msgstr ""
 
 #: src/view/com/modals/InviteCodes.tsx:93
 #: src/view/screens/Settings.tsx:399
-msgid "Invite a Friend"
+msgid "Bir Arkadaşınızı Davet Edin"
 msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:92
 #: src/view/com/auth/create/Step1.tsx:101
-msgid "Invite code"
+msgid "Davet kodu"
 msgstr ""
 
 #: src/view/com/auth/create/state.ts:199
-msgid "Invite code not accepted. Check that you input it correctly and try again."
+msgid "Davet kodu kabul edilmedi. Doğru girip girmediğinizi kontrol edin ve tekrar deneyin."
 msgstr ""
 
 #: src/view/com/modals/InviteCodes.tsx:170
-msgid "Invite codes: {0} available"
+msgid "Davet kodları: {0} mevcut"
 msgstr ""
 
 #: src/view/shell/Drawer.tsx:645
-msgid "Invite codes: {invitesAvailable} available"
+msgid "Davet kodları: {invitesAvailable} available"
 msgstr ""
 
 #: src/view/com/modals/InviteCodes.tsx:169
-msgid "Invite codes: 1 available"
+Davet kodları: 1 mevcut"
 msgstr ""
 
 #: src/view/com/auth/HomeLoggedOutCTA.tsx:99
-msgid "Jobs"
+msgid "Meslekler"
 msgstr ""
 
 #: src/view/com/modals/Waitlist.tsx:67
-msgid "Join the waitlist"
+msgid "Bekleme listesine katılın"
 msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:118
 #: src/view/com/auth/create/Step1.tsx:122
-msgid "Join the waitlist."
+msgid "Bekleme listesine katılın."
 msgstr ""
 
 #: src/view/com/modals/Waitlist.tsx:128
-msgid "Join Waitlist"
+msgid "Bekleme Listesine Katılın"
 msgstr ""
 
 #: src/view/com/composer/select-language/SelectLangBtn.tsx:104
-msgid "Language selection"
+msgid "Dil seçimi"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:560
-msgid "Language settings"
+msgid "Dil ayarları"
 msgstr ""
 
 #: src/Navigation.tsx:139
 #: src/view/screens/LanguageSettings.tsx:89
-msgid "Language Settings"
+msgid "Dil Ayarları"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:569
-msgid "Languages"
+msgid "Diller"
 msgstr ""
 
 #: src/view/com/auth/create/StepHeader.tsx:20
-msgid "Last step!"
+msgid "Son adım!"
 msgstr ""
 
 #: src/view/com/util/moderation/ContentHider.tsx:103
-msgid "Learn more"
+msgid "Daha fazlası"
 msgstr ""
 
 #: src/view/com/util/moderation/PostAlerts.tsx:47
 #: src/view/com/util/moderation/ProfileHeaderAlerts.tsx:65
 #: src/view/com/util/moderation/ScreenHider.tsx:104
-msgid "Learn More"
+msgid "Daha Fazlası"
 msgstr ""
 
 #: src/view/com/util/moderation/ContentHider.tsx:85
@@ -1830,119 +1830,119 @@ msgstr ""
 #: src/view/com/util/moderation/PostHider.tsx:78
 #: src/view/com/util/moderation/ProfileHeaderAlerts.tsx:49
 #: src/view/com/util/moderation/ScreenHider.tsx:101
-msgid "Learn more about this warning"
+msgid "Bu uyarı hakkında daha fazla bilgi edinin"
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:242
-msgid "Learn more about what is public on Bluesky."
+msgid "Bluesky'de nelerin herkese açık olduğu hakkında daha fazla bilgi edinin."
 msgstr ""
 
 #: src/view/com/modals/lang-settings/ContentLanguagesSettings.tsx:82
-msgid "Leave them all unchecked to see any language."
+msgid "Herhangi bir dili görmek için hepsini işaretlemeden bırakın."
 msgstr ""
 
 #: src/view/com/modals/LinkWarning.tsx:51
-msgid "Leaving Bluesky"
+msgid "Bluesky'den Ayrıl"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:280
-msgid "Legacy storage cleared, you need to restart the app now."
+msgid "Eski depolama alanı temizlendi, şimdi uygulamayı yeniden başlatmanız gerekiyor."
 msgstr ""
 
 #: src/view/com/auth/login/Login.tsx:128
 #: src/view/com/auth/login/Login.tsx:144
-msgid "Let's get your password reset!"
+msgid "Parolanızı sıfırlayalım!"
 msgstr ""
 
 #: src/view/com/util/UserAvatar.tsx:245
 #: src/view/com/util/UserBanner.tsx:60
-msgid "Library"
+msgid "Kütüphane"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:473
-msgid "Light"
+msgid "Işık"
 msgstr ""
 
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:189
-msgid "Like"
+msgid "Beğen"
 msgstr ""
 
 #: src/view/screens/ProfileFeed.tsx:600
-msgid "Like this feed"
+msgid "Akışı Beğen"
 msgstr ""
 
 #: src/Navigation.tsx:197
 #: src/view/screens/PostLikedBy.tsx:27
 #: src/view/screens/ProfileFeedLikedBy.tsx:27
-msgid "Liked by"
+msgid "Beğenen"
 msgstr ""
 
 #: src/view/com/feeds/FeedSourceCard.tsx:277
-msgid "Liked by {0} {1}"
+msgid "Beğenen {0} {1}"
 msgstr ""
 
 #: src/view/screens/ProfileFeed.tsx:615
-msgid "Liked by {likeCount} {0}"
+msgid "Beğenen {likeCount} {0}"
 msgstr ""
 
 #: src/view/com/notifications/FeedItem.tsx:171
-msgid "liked your custom feed{0}"
+msgid "özel yayın akışınızı beğendim{0}"
 msgstr ""
 
 #: src/view/com/notifications/FeedItem.tsx:155
-msgid "liked your post"
+msgid "gönderinizi beğendim"
 msgstr ""
 
 #: src/view/screens/Profile.tsx:164
-msgid "Likes"
+msgid "Beğeniler"
 msgstr ""
 
 #: src/view/com/post-thread/PostThreadItem.tsx:184
-msgid "Likes on this post"
+msgid "Bu gönderideki beğeniler"
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:203
-#~ msgid "Limit the visibility of my account"
+#~ msgid "Hesabımın görünürlüğünü sınırlandırın"
 #~ msgstr ""
 
 #: src/view/screens/Moderation.tsx:203
-#~ msgid "Limit the visibility of my account to logged-out users"
+#~ msgid "Hesabımın görünürlüğünü oturumu kapatmış kullanıcılarla sınırlama"
 #~ msgstr ""
 
 #: src/Navigation.tsx:166
-msgid "List"
+msgid "Liste"
 msgstr ""
 
 #: src/view/com/modals/CreateOrEditList.tsx:203
-msgid "List Avatar"
+msgid "Liste Avatarı"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:323
-msgid "List blocked"
+msgid "Liste engeli"
 msgstr ""
 
 #: src/view/com/feeds/FeedSourceCard.tsx:231
-msgid "List by {0}"
+msgid "Liste tarafından {0}"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:367
-msgid "List deleted"
+msgid "Silinen liste"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:282
-msgid "List muted"
+msgid "Sessize alınan liste"
 msgstr ""
 
 #: src/view/com/modals/CreateOrEditList.tsx:216
-msgid "List Name"
+msgid "Liste Adı"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:342
-msgid "List unblocked"
+msgid "Liste engelsiz"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:301
-msgid "List unmuted"
+msgid "Sessiz listele"
 msgstr ""
 
 #: src/Navigation.tsx:109
@@ -1950,80 +1950,80 @@ msgstr ""
 #: src/view/shell/desktop/LeftNav.tsx:379
 #: src/view/shell/Drawer.tsx:495
 #: src/view/shell/Drawer.tsx:496
-msgid "Lists"
+msgid "Listeler"
 msgstr ""
 
 #: src/view/com/post-thread/PostThread.tsx:263
 #: src/view/com/post-thread/PostThread.tsx:271
-msgid "Load more posts"
+msgid "Daha fazla gönderi yükle"
 msgstr ""
 
 #: src/view/screens/Notifications.tsx:148
-msgid "Load new notifications"
+msgid "Yeni bildirim yükle"
 msgstr ""
 
 #: src/view/com/feeds/FeedPage.tsx:190
 #: src/view/screens/Profile.tsx:412
 #: src/view/screens/ProfileFeed.tsx:503
 #: src/view/screens/ProfileList.tsx:659
-msgid "Load new posts"
+msgid "Yeni gönderileri yükle"
 msgstr ""
 
 #: src/view/com/composer/text-input/mobile/Autocomplete.tsx:95
-msgid "Loading..."
+msgid "Yükleniyor..."
 msgstr ""
 
 #: src/view/com/modals/ServerInput.tsx:50
-msgid "Local dev server"
+msgid "Yerel geliştirme sunucusu"
 msgstr ""
 
 #: src/Navigation.tsx:207
-msgid "Log"
+msgid "Günlük"
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:134
-#~ msgid "Logged-out users"
+#~ msgid "Oturum kapatmış kullanıcılar"
 #~ msgstr ""
 
 #: src/view/screens/Moderation.tsx:136
-msgid "Logged-out visibility"
+msgid "Oturum kapatma görünürlüğü"
 msgstr ""
 
 #: src/view/com/auth/login/ChooseAccountForm.tsx:133
-msgid "Login to account that is not listed"
+msgid "Listede olmayan bir hesaba giriş yapın"
 msgstr ""
 
 #: src/view/screens/ProfileFeed.tsx:472
-#~ msgid "Looks like this feed is only available to users with a Bluesky account. Please sign up or sign in to view this feed!"
+#~ msgid "Görünüşe göre bu yayın yalnızca Bluesky hesabı olan kullanıcılar tarafından kullanılabilir. Bu yayını görüntülemek için lütfen kaydolun veya oturum açın!"
 #~ msgstr ""
 
 #: src/view/com/modals/LinkWarning.tsx:65
-msgid "Make sure this is where you intend to go!"
+msgid "Gitmeyi planladığınız yerin burası olduğundan emin olun!"
 msgstr ""
 
 #: src/view/screens/Profile.tsx:163
-msgid "Media"
+msgid "Ortam"
 msgstr ""
 
 #: src/view/com/threadgate/WhoCanReply.tsx:139
-msgid "mentioned users"
+msgid "bahsedilen kullanıcılar"
 msgstr ""
 
 #: src/view/com/modals/Threadgate.tsx:93
-msgid "Mentioned users"
+msgid "Bahsedilen kullanıcılar"
 msgstr ""
 
 #: src/view/com/util/ViewHeader.tsx:81
 #: src/view/screens/Search/Search.tsx:544
-msgid "Menu"
+msgid "Menü"
 msgstr ""
 
 #: src/view/com/posts/FeedErrorMessage.tsx:194
-#~ msgid "Message from server"
+#~ msgid "Sunucudan gelen mesaj"
 #~ msgstr ""
 
 #: src/view/com/posts/FeedErrorMessage.tsx:197
-msgid "Message from server: {0}"
+msgid "Sunucudan gelen mesaj: {0}"
 msgstr ""
 
 #: src/Navigation.tsx:114
@@ -2032,57 +2032,57 @@ msgstr ""
 #: src/view/shell/desktop/LeftNav.tsx:397
 #: src/view/shell/Drawer.tsx:514
 #: src/view/shell/Drawer.tsx:515
-msgid "Moderation"
+msgid "Moderasyon"
 msgstr ""
 
 #: src/view/com/lists/ListCard.tsx:92
 #: src/view/com/modals/UserAddRemoveLists.tsx:190
-msgid "Moderation list by {0}"
+msgid "Tarafından moderasyon listesi {0}"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:753
-msgid "Moderation list by <0/>"
+msgid "Tarafından moderasyon listesiy <0/>"
 msgstr ""
 
 #: src/view/com/lists/ListCard.tsx:90
 #: src/view/com/modals/UserAddRemoveLists.tsx:188
 #: src/view/screens/ProfileList.tsx:751
-msgid "Moderation list by you"
+msgid "Sizin tarafınızdan moderasyon listesi"
 msgstr ""
 
 #: src/view/com/modals/CreateOrEditList.tsx:139
-msgid "Moderation list created"
+msgid "Moderasyon listesi oluşturuldu"
 msgstr ""
 
 #: src/view/com/modals/CreateOrEditList.tsx:126
-msgid "Moderation list updated"
+msgid "Moderasyon listesi güncellendi"
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:95
-msgid "Moderation lists"
+msgid "Moderasyon listeleti"
 msgstr ""
 
 #: src/Navigation.tsx:119
 #: src/view/screens/ModerationModlists.tsx:58
-msgid "Moderation Lists"
+msgid "Moderasyon Listeleri"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:585
-msgid "Moderation settings"
+msgid "Moderasyon ayarları"
 msgstr ""
 
 #: src/view/com/modals/ModerationDetails.tsx:35
-msgid "Moderator has chosen to set a general warning on the content."
+msgid "Moderatör içerikle ilgili genel bir uyarı vermeyi tercih etmiştir."
 msgstr ""
 
 #: src/view/shell/desktop/Feeds.tsx:53
-msgid "More feeds"
+msgid "Daha fazla akış"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:562
 #: src/view/screens/ProfileFeed.tsx:371
 #: src/view/screens/ProfileList.tsx:595
-msgid "More options"
+msgid "Daha fazla seçenek"
 msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:268
