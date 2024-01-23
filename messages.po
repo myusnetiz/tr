@@ -1153,11 +1153,11 @@ msgid "Kulanıcı Listesini Düzenle"
 msgstr ""
 
 #: src/view/com/modals/EditProfile.tsx:193
-msgid "Edit your display name"
+msgid "Görünen adınızı düzenleyin"
 msgstr ""
 
 #: src/view/com/modals/EditProfile.tsx:211
-msgid "Edit your profile description"
+msgid "Profil açıklamanızı düzenleyin"
 msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:143
@@ -1166,53 +1166,53 @@ msgstr ""
 #: src/view/com/auth/login/ForgotPasswordForm.tsx:152
 #: src/view/com/modals/ChangeEmail.tsx:141
 #: src/view/com/modals/Waitlist.tsx:88
-msgid "Email"
+msgid "Eposta"
 msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:134
 #: src/view/com/auth/login/ForgotPasswordForm.tsx:143
-msgid "Email address"
+msgid "Eposta adres"
 msgstr ""
 
 #: src/view/com/modals/ChangeEmail.tsx:56
 #: src/view/com/modals/ChangeEmail.tsx:88
-msgid "Email updated"
+msgid "Eposta güncellendi"
 msgstr ""
 
 #: src/view/com/modals/ChangeEmail.tsx:111
-msgid "Email Updated"
+msgid "Eposta Güncellendi"
 msgstr ""
 
 #: src/view/com/modals/VerifyEmail.tsx:78
-msgid "Email verified"
+msgid "Eposta doğrulandı"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:312
-msgid "Email:"
+msgid "Eposta:"
 msgstr ""
 
 #: src/view/com/modals/EmbedConsent.tsx:113
-msgid "Enable {0} only"
+msgid "Yalnızca {0} etkinleştir"
 msgstr ""
 
 #: src/view/com/modals/ContentFilteringSettings.tsx:162
-msgid "Enable Adult Content"
+msgid "Yetişkin İçeriğini Etkinleştir"
 msgstr ""
 
 #: src/view/com/modals/EmbedConsent.tsx:97
-msgid "Enable External Media"
+msgid "Harici Ortamı Etkinleştir"
 msgstr ""
 
 #: src/view/screens/PreferencesExternalEmbeds.tsx:75
-msgid "Enable media players for"
+msgid "Şunlar için ortam oynatıcıları etkinleştirin"
 msgstr ""
 
 #: src/view/screens/PreferencesHomeFeed.tsx:147
-msgid "Enable this setting to only see replies between people you follow."
+msgid "Yalnızca takip ettiğiniz kişiler arasındaki yanıtları görmek için bu ayarı etkinleştirin."
 msgstr ""
 
 #: src/view/screens/Profile.tsx:427
-msgid "End of feed"
+msgid "Akış Sonu"
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:165
