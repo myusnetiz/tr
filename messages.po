@@ -89,27 +89,27 @@ msgstr ""
 #~ msgstr ""
 
 #: src/view/screens/Moderation.tsx:212
-#~ msgid "<0>Note: This setting may not be respected by third-party apps that display Bluesky content.</0>"
+#~ msgid "<0>Not: Bu ayar, Bluesky içeriğini görüntüleyen üçüncü taraf uygulamalar tarafından dikkate alınmayabilir.</0>"
 #~ msgstr ""
 
 #: src/view/screens/Moderation.tsx:212
-#~ msgid "<0>Note: Your profile and posts will remain publicly available. Third-party apps that display Bluesky content may not respect this setting.</0>"
+#~ msgid "<0>Not: Profiliniz ve gönderileriniz herkese açık kalacak. Bluesky içeriğini görüntüleyen üçüncü taraf uygulamalar bu ayara uymayabilir.</0>"
 #~ msgstr ""
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:21
-msgid "<0>Welcome to</0><1>Bluesky</1>"
+msgid "<0>Bluesky'ye</0><1> Hoş Geldiniz</1>"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:597
-msgid "⚠Invalid Handle"
+msgid "⚠ Geçersiz Tanıtıcı"
 msgstr ""
 
 #: src/view/com/util/moderation/LabelInfo.tsx:45
-msgid "A content warning has been applied to this {0}."
+msgid "Buna bir içerik uyarısı uygulandı {0}."
 msgstr ""
 
 #: src/lib/hooks/useOTAUpdate.ts:16
-msgid "A new version of the app is available. Please update to continue using the app."
+msgid "Uygulamanın yeni bir sürümü mevcuttur. Uygulamayı kullanmaya devam etmek için lütfen güncelleyin."
 msgstr ""
 
 #: src/view/com/util/ViewHeader.tsx:83
@@ -118,21 +118,21 @@ msgid "Access navigation links and settings"
 msgstr ""
 
 #: src/view/com/pager/FeedsTabBarMobile.tsx:83
-msgid "Access profile and other navigation links"
+msgid "Profil ve diğer gezinme bağlantılarına erişim"
 msgstr ""
 
 #: src/view/com/modals/EditImage.tsx:299
 #: src/view/screens/Settings.tsx:445
-msgid "Accessibility"
+msgid "Erişebilirlik"
 msgstr ""
 
 #: src/view/com/auth/login/LoginForm.tsx:163
 #: src/view/screens/Settings.tsx:308
-msgid "Account"
+msgid "Hesap"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:293
-msgid "Account blocked"
+msgid "Hesap engellendi"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:260
@@ -140,38 +140,38 @@ msgid "Account muted"
 msgstr ""
 
 #: src/view/com/modals/ModerationDetails.tsx:86
-msgid "Account Muted"
+msgid "Hesap sesize alındı"
 msgstr ""
 
 #: src/view/com/modals/ModerationDetails.tsx:72
-msgid "Account Muted by List"
+msgid "Hesap Listeye Göre Sessize Alındı"
 msgstr ""
 
 #: src/view/com/util/AccountDropdownBtn.tsx:41
-msgid "Account options"
+msgid "Hesap ayarları"
 msgstr ""
 
 #: src/view/com/util/AccountDropdownBtn.tsx:25
-msgid "Account removed from quick access"
+msgid "Hesap hızlı erişimden kaldırıldı"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:315
-msgid "Account unblocked"
+msgid "Hesabın blokesi kaldırıldı"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:273
-msgid "Account unmuted"
+msgid "Hesabın sesi açıldı"
 msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFeedsItem.tsx:150
 #: src/view/com/modals/ListAddRemoveUsers.tsx:264
 #: src/view/com/modals/UserAddRemoveLists.tsx:203
 #: src/view/screens/ProfileList.tsx:791
-msgid "Add"
+msgid "Ekle"
 msgstr ""
 
 #: src/view/com/modals/SelfLabel.tsx:56
-msgid "Add a content warning"
+msgid "İçerik uyarısı ekleyin"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:781
