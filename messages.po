@@ -393,51 +393,51 @@ msgid "Geri"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:489
-msgid "Basics"
+msgid "Temel Bilgiler"
 msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:194
 #: src/view/com/modals/BirthDateSettings.tsx:73
-msgid "Birthday"
+msgid "Doğumgünü"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:340
-msgid "Birthday:"
+msgid "Doğumgünü:"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:286
 #: src/view/com/profile/ProfileHeader.tsx:393
-msgid "Block Account"
+msgid "Hesabı Engellr"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:534
-msgid "Block accounts"
+msgid "Hesapları Engelle"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:484
-msgid "Block list"
+msgid "Engelleme listesi"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:315
-msgid "Block these accounts?"
+msgid "Bu hesapları engellemek mi?"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:319
-msgid "Block this List"
+msgid "Bu Listeyi Engelle"
 msgstr ""
 
 #: src/view/com/lists/ListCard.tsx:109
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:60
-msgid "Blocked"
+msgid "Engellendi"
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:123
-msgid "Blocked accounts"
+msgid "Engellenen hesaplar"
 msgstr ""
 
 #: src/Navigation.tsx:129
 #: src/view/screens/ModerationBlockedAccounts.tsx:107
-msgid "Blocked Accounts"
+msgid "Engelenen hesaplar"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:288
