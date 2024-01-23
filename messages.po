@@ -175,24 +175,24 @@ msgid "İçerik uyarısı ekleyin"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:781
-msgid "Add a user to this list"
+msgid "Bu listeye bir kullanıcı ekleyin"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:383
 #: src/view/screens/Settings.tsx:392
-msgid "Add account"
+msgid "Hesap ekle"
 msgstr ""
 
 #: src/view/com/composer/photos/Gallery.tsx:119
 #: src/view/com/composer/photos/Gallery.tsx:180
 #: src/view/com/modals/AltImage.tsx:93
-msgid "Add alt text"
+msgid "Alternatif metin ekleyiniz"
 msgstr ""
 
 #: src/view/screens/AppPasswords.tsx:102
 #: src/view/screens/AppPasswords.tsx:143
 #: src/view/screens/AppPasswords.tsx:156
-msgid "Add App Password"
+msgid "Uygulama Parolası Ekle"
 msgstr ""
 
 #: src/view/com/modals/report/InputIssueDetails.tsx:41
