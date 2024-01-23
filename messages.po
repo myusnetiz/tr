@@ -795,7 +795,7 @@ msgid "İletişim desteği"
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:81
-msgid "Content filtering"
+msgid "İçerik filtreleme"
 msgstr ""
 
 #: src/view/com/modals/ContentFilteringSettings.tsx:44
@@ -870,71 +870,71 @@ msgid "Telif Hakkı Politikası"
 msgstr ""
 
 #: src/view/screens/ProfileFeed.tsx:95
-msgid "Could not load feed"
+msgid "Akış yüklenemedi"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:867
-msgid "Could not load list"
+msgid "Liste yüklenemedi"
 msgstr ""
 
 #: src/view/com/auth/create/Step2.tsx:89
-msgid "Country"
+msgid "Ülke"
 msgstr ""
 
 #: src/view/com/auth/HomeLoggedOutCTA.tsx:62
 #: src/view/com/auth/SplashScreen.tsx:46
 #: src/view/com/auth/SplashScreen.web.tsx:77
-msgid "Create a new account"
+msgid "Yeni bir hesap oluşturun"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:384
-msgid "Create a new Bluesky account"
+msgid "Yeni bir Bluesky hesabı oluşturun"
 msgstr ""
 
 #: src/view/com/auth/create/CreateAccount.tsx:122
-msgid "Create Account"
+msgid "Hesap Oluştur"
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:228
-msgid "Create App Password"
+msgid "Uygulama Parolası Oluştur"
 msgstr ""
 
 #: src/view/com/auth/HomeLoggedOutCTA.tsx:54
 #: src/view/com/auth/SplashScreen.tsx:43
-msgid "Create new account"
+msgid "Yeni hesap oluştur"
 msgstr ""
 
 #: src/view/screens/AppPasswords.tsx:249
-msgid "Created {0}"
+msgid "Oluşturuldu {0}"
 msgstr ""
 
 #: src/view/screens/ProfileFeed.tsx:625
-msgid "Created by <0/>"
+msgid "Tarafından oluşturuldu <0/>"
 msgstr ""
 
 #: src/view/screens/ProfileFeed.tsx:623
-msgid "Created by you"
+msgid "Sizin tarafınızdan oluşturuldu"
 msgstr ""
 
 #: src/view/com/composer/Composer.tsx:448
-msgid "Creates a card with a thumbnail. The card links to {url}"
+msgid "Küçük resimli bir kart oluşturur. Kart şuraya {url} bağlanır"
 msgstr ""
 
 #: src/view/com/modals/ChangeHandle.tsx:389
 #: src/view/com/modals/ServerInput.tsx:102
-msgid "Custom domain"
+msgid "Özel alan adı"
 msgstr ""
 
 #: src/view/screens/PreferencesExternalEmbeds.tsx:55
-msgid "Customize media from external sites."
+msgid "Harici sitelerdeki ortamı özelleştirin."
 msgstr ""
 
 #: src/view/screens/Settings.tsx:687
-msgid "Danger Zone"
+msgid "Tehlikeli Bölge"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:479
-msgid "Dark"
+msgid "Karanlık"
 msgstr ""
 
 #: src/view/screens/Debug.tsx:63
