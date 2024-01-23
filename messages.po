@@ -197,65 +197,65 @@ msgstr ""
 
 #: src/view/com/modals/report/InputIssueDetails.tsx:41
 #: src/view/com/modals/report/Modal.tsx:191
-msgid "Add details"
+msgid "Ayrıntıları ekle"
 msgstr ""
 
 #: src/view/com/modals/report/Modal.tsx:194
-msgid "Add details to report"
+msgid "Rapora ayrıntı ekleyin"
 msgstr ""
 
 #: src/view/com/composer/Composer.tsx:446
-msgid "Add link card"
+msgid "Bağlantı kartı ekle"
 msgstr ""
 
 #: src/view/com/composer/Composer.tsx:451
-msgid "Add link card:"
+msgid "Bağlantı kartı ekle:"
 msgstr ""
 
 #: src/view/com/modals/ChangeHandle.tsx:417
-msgid "Add the following DNS record to your domain:"
+msgid "Alan adınıza aşağıdaki DNS kaydını ekleyiniz:"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:357
-msgid "Add to Lists"
+msgid "Listelere Ekleyiniz"
 msgstr ""
 
 #: src/view/com/feeds/FeedSourceCard.tsx:243
 #: src/view/screens/ProfileFeed.tsx:281
-msgid "Add to my feeds"
+msgid "Benim akışıma ekle"
 msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFeedsItem.tsx:139
-msgid "Added"
+msgid "Eklendi"
 msgstr ""
 
 #: src/view/com/modals/ListAddRemoveUsers.tsx:191
 #: src/view/com/modals/UserAddRemoveLists.tsx:128
-msgid "Added to list"
+msgid "Listeye eklendi"
 msgstr ""
 
 #: src/view/com/feeds/FeedSourceCard.tsx:125
-msgid "Added to my feeds"
+msgid "Benim akışıma eklendi"
 msgstr ""
 
 #: src/view/screens/PreferencesHomeFeed.tsx:173
-msgid "Adjust the number of likes a reply must have to be shown in your feed."
+msgid "Bir yanıtın akışınızda gösterilmesi için sahip olması gereken beğeni sayısını ayarlayınız."
 msgstr ""
 
 #: src/view/com/modals/SelfLabel.tsx:75
-msgid "Adult Content"
+msgid "Yetişkinlere Yönelik İçerik"
 msgstr ""
 
 #: src/view/com/modals/ContentFilteringSettings.tsx:137
-msgid "Adult content can only be enabled via the Web at <0/>."
+msgid "Yetişkinlere yönelik içerik yalnızca Web üzerinden şu adresten etkinleştirilebilir <0/>."
 msgstr ""
 
 #: src/view/screens/Settings.tsx:630
-msgid "Advanced"
+msgid "Gelişmiş"
 msgstr ""
 
 #: src/view/com/auth/login/ChooseAccountForm.tsx:98
-msgid "Already signed in as @{0}"
+msgid "Zaten @ olarak oturum açtım{0}"
 msgstr ""
 
 #: src/view/com/composer/photos/Gallery.tsx:130
@@ -263,29 +263,29 @@ msgid "ALT"
 msgstr ""
 
 #: src/view/com/modals/EditImage.tsx:315
-msgid "Alt text"
+msgid "Alt metin"
 msgstr ""
 
 #: src/view/com/composer/photos/Gallery.tsx:209
-msgid "Alt text describes images for blind and low-vision users, and helps give context to everyone."
+msgid "Alt metin, görme duyarlı ve az gören kullanıcılar için görüntüleri açıklar ve herkese bağlam sağlamaya yardımcı olur."
 msgstr ""
 
 #: src/view/com/modals/VerifyEmail.tsx:124
-msgid "An email has been sent to {0}. It includes a confirmation code which you can enter below."
+msgid "{0} adresine bir e-posta gönderildi.  Aşağıya girebileceğiniz bir onay kodu içerir."
 msgstr ""
 
 #: src/view/com/modals/ChangeEmail.tsx:119
-msgid "An email has been sent to your previous address, {0}. It includes a confirmation code which you can enter below."
+msgid "Önceki adresiniz olan {0}'a bir e-posta gönderilmiştir. Aşağıda girebileceğiniz bir onay kodu içermektedir."
 msgstr ""
 
 #: src/view/com/profile/FollowButton.tsx:30
 #: src/view/com/profile/FollowButton.tsx:40
-msgid "An issue occurred, please try again."
+msgid "Bir sorun oluştu, lütfen tekrar deneyin."
 msgstr ""
 
 #: src/view/com/notifications/FeedItem.tsx:240
 #: src/view/com/threadgate/WhoCanReply.tsx:178
-msgid "and"
+msgid "ve"
 msgstr ""
 
 #: src/view/screens/LanguageSettings.tsx:95
