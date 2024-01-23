@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
-"Language-Team: \n"
+"Language-Team: usnet \n"
 "Plural-Forms: \n"
 
 #: src/view/screens/Profile.tsx:214
@@ -26,7 +26,7 @@ msgid "(eposta yok)"
 msgstr ""
 
 #: src/view/shell/desktop/RightNav.tsx:168
-msgid "{0, plural, one {# davet kodu mevcut} other {# davet kodları mevcut}}"
+msgid "{0, çoğul, tekil {# davet kodu mevcut} diğer {# davet kodları mevcut}}"
 msgstr ""
 
 #: src/view/com/modals/CreateOrEditList.tsx:185
@@ -43,7 +43,7 @@ msgid "{following} takipçi"
 msgstr ""
 
 #: src/view/shell/desktop/RightNav.tsx:151
-msgid "{invitesAvailable, plural, one {Davet kodları: # mevcut} diğer {Davet kodları: # mevcut}}"
+msgid "{invitesAvailable, çoğul, tekil {Davet kodları: # mevcut} diğer {Davet kodları: # mevcut}}"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:435
