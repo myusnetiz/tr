@@ -480,11 +480,11 @@ msgid "Bluesky herkese açık."
 msgstr ""
 
 #: src/view/com/modals/Waitlist.tsx:70
-msgid "Bluesky uses invites to build a healthier community. If you don't know anybody with an invite, you can sign up for the waitlist and we'll send one soon."
+msgid "Bluesky daha sağlıklı bir topluluk oluşturmak için davetiye kullanır. Davetiyesi olan kimseyi tanımıyorsanız, bekleme listesine kaydolabilirsiniz ve yakında bir tane göndereceğiz."
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:225
-msgid "Bluesky will not show your profile and posts to logged-out users. Other apps may not honor this request. This does not make your account private."
+msgid "Bluesky, profilinizi ve gönderilerinizi oturumu kapatılmış kullanıcılara göstermeyecektir. Diğer uygulamalar bu isteği yerine getirmeyebilir. Bu, hesabınızı gizli yapmaz."
 msgstr ""
 
 #: src/view/com/modals/ServerInput.tsx:78
@@ -492,41 +492,41 @@ msgid "Bluesky.Social"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:792
-msgid "Build version {0} {1}"
+msgid "Sürüm oluştur {0} {1}"
 msgstr ""
 
 #: src/view/com/auth/HomeLoggedOutCTA.tsx:87
-msgid "Business"
+msgid "İş"
 msgstr ""
 
 #: src/view/com/modals/ServerInput.tsx:115
-msgid "Button disabled. Input custom domain to proceed."
+msgid "Tuş devre dışı. Devam etmek için özel alan adı giriniz."
 msgstr ""
 
 #: src/view/com/profile/ProfileSubpageHeader.tsx:157
-msgid "by —"
+msgid "sen —"
 msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFeedsItem.tsx:100
-msgid "by {0}"
+msgid "sen {0}"
 msgstr ""
 
 #: src/view/com/profile/ProfileSubpageHeader.tsx:161
-msgid "by <0/>"
+msgid "sen <0/>"
 msgstr ""
 
 #: src/view/com/profile/ProfileSubpageHeader.tsx:159
-msgid "by you"
+msgid "senin tarafından"
 msgstr ""
 
 #: src/view/com/composer/photos/OpenCameraBtn.tsx:60
 #: src/view/com/util/UserAvatar.tsx:221
 #: src/view/com/util/UserBanner.tsx:38
-msgid "Camera"
+msgid "Kamera"
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:218
-msgid "Can only contain letters, numbers, spaces, dashes, and underscores. Must be at least 4 characters long, but no more than 32 characters long."
+msgid "Yalnızca harf, rakam, boşluk, tire ve alt çizgi içerebilir. En az 4 karakter uzunluğunda olmalı, ancak en fazla 32 karakter uzunluğunda olması gerekir."
 msgstr ""
 
 #: src/components/Prompt.tsx:92
@@ -545,7 +545,7 @@ msgstr ""
 #: src/view/com/modals/Waitlist.tsx:142
 #: src/view/screens/Search/Search.tsx:609
 #: src/view/shell/desktop/Search.tsx:238
-msgid "Cancel"
+msgid "İptal"
 msgstr ""
 
 #: src/view/com/modals/Confirm.tsx:88
@@ -554,37 +554,37 @@ msgstr ""
 #: src/view/com/modals/DeleteAccount.tsx:152
 #: src/view/com/modals/DeleteAccount.tsx:230
 msgctxt "action"
-msgid "Cancel"
+msgid "İptal"
 msgstr ""
 
 #: src/view/com/modals/DeleteAccount.tsx:148
 #: src/view/com/modals/DeleteAccount.tsx:226
-msgid "Cancel account deletion"
+msgid "Hesap silme işlemini iptal et"
 msgstr ""
 
 #: src/view/com/modals/AltImage.tsx:123
-#~ msgid "Cancel add image alt text"
+#~ msgid "Görsel alt metin eklemeyi iptal et"
 #~ msgstr ""
 
 #: src/view/com/modals/ChangeHandle.tsx:149
-msgid "Cancel change handle"
+msgid "Değişiklik kolunu iptal et"
 msgstr ""
 
 #: src/view/com/modals/crop-image/CropImage.web.tsx:134
-msgid "Cancel image crop"
+msgid "Görüntü kırpmayı iptal et"
 msgstr ""
 
 #: src/view/com/modals/EditProfile.tsx:244
-msgid "Cancel profile editing"
+msgid "Profil düzenlemesini iptal et"
 msgstr ""
 
 #: src/view/com/modals/Repost.tsx:78
-msgid "Cancel quote post"
+msgid "Alıntı gönderisini iptal et"
 msgstr ""
 
 #: src/view/com/modals/ListAddRemoveUsers.tsx:87
 #: src/view/shell/desktop/Search.tsx:234
-msgid "Cancel search"
+msgid "Aramayı iptal et"
 msgstr ""
 
 #: src/view/com/modals/Waitlist.tsx:136
@@ -593,11 +593,11 @@ msgstr ""
 
 #: src/view/screens/Settings.tsx:334
 msgctxt "action"
-msgid "Change"
+msgid "Değişim"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:306
-#~ msgid "Change"
+#~ msgid "Değişim"
 #~ msgstr ""
 
 #: src/view/screens/Settings.tsx:662
