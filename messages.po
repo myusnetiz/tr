@@ -293,7 +293,7 @@ msgid "Uygulama Dili"
 msgstr ""
 
 #: src/view/screens/AppPasswords.tsx:228
-msgid "Uygulama patolası silindi"
+msgid "Uygulama parolası silindi"
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:133
@@ -314,7 +314,7 @@ msgstr ""
 
 #: src/Navigation.tsx:237
 #: src/view/screens/AppPasswords.tsx:187
-msgid "Uygulama parosı"
+msgid "Uygulama parolası"
 msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:248
@@ -358,11 +358,11 @@ msgid "Emin misin?"
 msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:231
-msgid "Are you sure? This cannot be undone."
+msgid "Emin misin? Bu geri alınamaz."
 msgstr ""
 
 #: src/view/com/composer/select-language/SuggestedLanguage.tsx:65
-msgid "Are you writing in <0>{0}</0>?"
+msgid "İçinde mi yazıyorsun <0>{0}</0>?"
 msgstr ""
 
 #: src/view/com/modals/SelfLabel.tsx:123
