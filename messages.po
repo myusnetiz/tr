@@ -1443,142 +1443,142 @@ msgid "Yalnızca takip edilen kullanıcılar"
 msgstr ""
 
 #: src/view/com/notifications/FeedItem.tsx:166
-msgid "followed you"
+msgid "seni takip etti"
 msgstr ""
 
 #: src/view/screens/ProfileFollowers.tsx:25
-msgid "Followers"
+msgid "Takipçiler"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:624
-#~ msgid "following"
+#~ msgid "takipçi"
 #~ msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:534
 #: src/view/screens/ProfileFollows.tsx:25
-msgid "Following"
+msgid "Takipçi"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:196
-msgid "Following {0}"
+msgid "Takipçi {0}"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:585
-msgid "Follows you"
+msgid "Seni takip ediyor"
 msgstr ""
 
 #: src/view/com/profile/ProfileCard.tsx:141
-msgid "Follows You"
+msgid "Seni Takip Ediyor"
 msgstr ""
 
 #: src/view/com/modals/DeleteAccount.tsx:107
-msgid "For security reasons, we'll need to send a confirmation code to your email address."
+msgid "Güvenlik nedeniyle, e-posta adresinize bir onay kodu göndermemiz gerekir."
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:211
-msgid "For security reasons, you won't be able to view this again. If you lose this password, you'll need to generate a new one."
+msgid "Güvenlik nedeniyle, bunu bir daha göremeyeceksiniz. Bu parolayı kaybederseniz, yeni bir parola oluşturmanız gerekir."
 msgstr ""
 
 #: src/view/com/auth/login/LoginForm.tsx:238
-msgid "Forgot"
+msgid "Unuttum"
 msgstr ""
 
 #: src/view/com/auth/login/LoginForm.tsx:235
-msgid "Forgot password"
+msgid "Parolamı unuttum"
 msgstr ""
 
 #: src/view/com/auth/login/Login.tsx:127
 #: src/view/com/auth/login/Login.tsx:143
-msgid "Forgot Password"
+msgid "Parolamı Unuttum"
 msgstr ""
 
 #: src/view/com/posts/FeedItem.tsx:188
 msgctxt "from-feed"
-msgid "From <0/>"
+msgid "Kimden <0/>"
 msgstr ""
 
 #: src/view/com/composer/photos/SelectPhotoBtn.tsx:43
-msgid "Gallery"
+msgid "Galeri"
 msgstr ""
 
 #: src/view/com/modals/VerifyEmail.tsx:189
 #: src/view/com/modals/VerifyEmail.tsx:191
-msgid "Get Started"
+msgid "Başlayın"
 msgstr ""
 
 #: src/view/com/auth/LoggedOut.tsx:81
 #: src/view/com/auth/LoggedOut.tsx:82
 #: src/view/com/util/moderation/ScreenHider.tsx:123
 #: src/view/shell/desktop/LeftNav.tsx:104
-msgid "Go back"
+msgid "Geri döm"
 msgstr ""
 
 #: src/view/screens/ProfileFeed.tsx:104
 #: src/view/screens/ProfileFeed.tsx:109
 #: src/view/screens/ProfileList.tsx:876
 #: src/view/screens/ProfileList.tsx:881
-msgid "Go Back"
+msgid "Geri Dön"
 msgstr ""
 
 #: src/view/screens/Search/Search.tsx:640
 #: src/view/shell/desktop/Search.tsx:262
-msgid "Go to @{queryMaybeHandle}"
+msgid "Git @{queryMaybeHandle}"
 msgstr ""
 
 #: src/view/com/auth/login/ForgotPasswordForm.tsx:185
 #: src/view/com/auth/login/LoginForm.tsx:285
 #: src/view/com/auth/login/SetNewPasswordForm.tsx:165
-msgid "Go to next"
+msgid "Bir sonrakine geç"
 msgstr ""
 
 #: src/view/com/modals/ChangeHandle.tsx:265
-msgid "Handle"
+msgid "Tutamak"
 msgstr ""
 
 #: src/view/com/auth/create/CreateAccount.tsx:190
-msgid "Having trouble?"
+msgid "Sorun mu var?"
 msgstr ""
 
 #: src/view/shell/desktop/RightNav.tsx:102
 #: src/view/shell/Drawer.tsx:324
-msgid "Help"
+msgid "Yardım"
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:152
-msgid "Here is your app password."
+msgid "İşte uygulama parolanız."
 msgstr ""
 
 #: src/view/com/modals/ContentFilteringSettings.tsx:219
 #: src/view/com/notifications/FeedItem.tsx:329
 msgctxt "action"
-msgid "Hide"
+msgid "Gizle"
 msgstr ""
 
 #: src/view/com/modals/ContentFilteringSettings.tsx:246
 #: src/view/com/util/moderation/ContentHider.tsx:105
 #: src/view/com/util/moderation/PostHider.tsx:108
-msgid "Hide"
+msgid "Gizle"
 msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:185
-msgid "Hide post"
+msgid "Göneriyi Gizle"
 msgstr ""
 
 #: src/view/com/util/moderation/ContentHider.tsx:67
 #: src/view/com/util/moderation/PostHider.tsx:61
-msgid "Hide the content"
+msgid "İçeriği gizleyin"
 msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:189
-msgid "Hide this post?"
+msgid "Bu içeriği gizleyeyim mi?"
 msgstr ""
 
 #: src/view/com/notifications/FeedItem.tsx:319
-msgid "Hide user list"
+msgid "Kullanıcı listesini gizle"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:526
-msgid "Hides posts from {0} in your feed"
+msgid "Akışınızda {0} adresindeki gönderileri gizler"
 msgstr ""
 
 #: src/view/com/posts/FeedErrorMessage.tsx:102
