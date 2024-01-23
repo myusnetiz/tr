@@ -791,7 +791,7 @@ msgid "Bağlanıyor..."
 msgstr ""
 
 #: src/view/com/auth/create/CreateAccount.tsx:195
-msgid "Contact support"
+msgid "İletişim desteği"
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:81
@@ -799,35 +799,35 @@ msgid "Content filtering"
 msgstr ""
 
 #: src/view/com/modals/ContentFilteringSettings.tsx:44
-msgid "Content Filtering"
+msgid "İçerik filtreleme"
 msgstr ""
 
 #: src/view/com/modals/lang-settings/ContentLanguagesSettings.tsx:74
 #: src/view/screens/LanguageSettings.tsx:278
-msgid "Content Languages"
+msgid "İçerik Dilleri"
 msgstr ""
 
 #: src/view/com/modals/ModerationDetails.tsx:65
-msgid "Content Not Available"
+msgid "İçerik Mevcut Değil"
 msgstr ""
 
 #: src/view/com/modals/ModerationDetails.tsx:33
 #: src/view/com/util/moderation/ScreenHider.tsx:78
-msgid "Content Warning"
+msgid "İçerik Uyarısı"
 msgstr ""
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:31
-msgid "Content warnings"
+msgid "İçerik uyarıları"
 msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFeeds.tsx:148
 #: src/view/com/auth/onboarding/RecommendedFollows.tsx:209
-msgid "Continue"
+msgid "Devam et"
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:197
 #: src/view/com/modals/InviteCodes.tsx:182
-msgid "Copied"
+msgid "Kopyalandı"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:243
