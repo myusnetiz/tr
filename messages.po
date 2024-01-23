@@ -795,11 +795,11 @@ msgid "İletişim desteği"
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:81
-msgid "İçerik filtreleme"
+msgid "İçerik süzgeçleme"
 msgstr ""
 
 #: src/view/com/modals/ContentFilteringSettings.tsx:44
-msgid "İçerik filtreleme"
+msgid "İçerik süzgeçleme"
 msgstr ""
 
 #: src/view/com/modals/lang-settings/ContentLanguagesSettings.tsx:74
