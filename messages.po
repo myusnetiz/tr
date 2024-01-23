@@ -2090,56 +2090,56 @@ msgid "Daha fazla gönderi ayarları"
 msgstr ""
 
 #: src/view/screens/PreferencesThreads.tsx:82
-msgid "Most-liked replies first"
+msgid "Önce en çok beğenilen cevaplar"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:374
-msgid "Mute Account"
+msgid "Hesabı Kapat"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:522
-msgid "Mute accounts"
+msgid "Hesapları kapat"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:469
-msgid "Mute list"
+msgid "Listeyi kapat"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:274
-msgid "Mute these accounts?"
+msgid "Bu hesapları sessize mi alayım?"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:278
-msgid "Mute this List"
+msgid "Bu Listeyi Sessize Al"
 msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:169
-msgid "Mute thread"
+msgid "Sessiz konu"
 msgstr ""
 
 #: src/view/com/lists/ListCard.tsx:101
-msgid "Muted"
+msgid "Sessiz"
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:109
-msgid "Muted accounts"
+msgid "Sessiz hesaplar"
 msgstr ""
 
 #: src/Navigation.tsx:124
 #: src/view/screens/ModerationMutedAccounts.tsx:107
-msgid "Muted Accounts"
+msgid "Sessiz Hesaplar"
 msgstr ""
 
 #: src/view/screens/ModerationMutedAccounts.tsx:115
-msgid "Muted accounts have their posts removed from your feed and from your notifications. Mutes are completely private."
+msgid "Sessiz hesapların gönderileri akışlarınızdan ve bildirimlerinizden kaldırılır. Sessizler tamamen özeldir."
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:276
-msgid "Muting is private. Muted accounts can interact with you, but you will not see their posts or receive notifications from them."
+msgid "Susturmak özeldir. Sessiz hesaplar sizinle etkileşime girebilir, ancak gönderilerini göremez veya onlardan bildirim alamazsınız."
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:134
-#~ msgid "My Account"
+#~ msgid "Hesabım"
 #~ msgstr ""
 
 #: src/view/com/modals/BirthDateSettings.tsx:56
@@ -2734,7 +2734,7 @@ msgstr ""
 #: src/view/shell/Drawer.tsx:72
 #: src/view/shell/Drawer.tsx:549
 #: src/view/shell/Drawer.tsx:550
-msgid "Profile"
+msgid "Profil"
 msgstr ""
 
 #: src/view/com/modals/EditProfile.tsx:128
