@@ -384,7 +384,7 @@ msgstr ""
 #: src/view/com/post-thread/PostThread.tsx:450
 #: src/view/com/profile/ProfileHeader.tsx:688
 #: src/view/com/util/ViewHeader.tsx:81
-msgid "Back"
+msgid "Geri"
 msgstr ""
 
 #: src/view/com/post-thread/PostThread.tsx:400
@@ -407,7 +407,7 @@ msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:286
 #: src/view/com/profile/ProfileHeader.tsx:393
-msgid "Hesabı Engellr"
+msgid "Hesabı Engelle"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:534
@@ -1938,7 +1938,7 @@ msgid "Liste Adı"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:342
-msgid "Liste engelsiz"
+msgid "Engelsiz Liste"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:301
@@ -2059,7 +2059,7 @@ msgid "Moderasyon listesi güncellendi"
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:95
-msgid "Moderasyon listeleti"
+msgid "Moderasyon listeleri"
 msgstr ""
 
 #: src/Navigation.tsx:119
@@ -2086,7 +2086,7 @@ msgid "Daha fazla seçenek"
 msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:268
-msgid "More post options"
+msgid "Daha fazla gönderi ayarları"
 msgstr ""
 
 #: src/view/screens/PreferencesThreads.tsx:82
