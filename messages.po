@@ -831,42 +831,42 @@ msgid "Kopyalandı"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:243
-msgid "Copied build version to clipboard"
+msgid "Derleme sürümü panoya kopyalandı"
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:75
 #: src/view/com/modals/InviteCodes.tsx:152
 #: src/view/com/util/forms/PostDropdownBtn.tsx:110
-msgid "Copied to clipboard"
+msgid "Panoya kopyalandı"
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:191
-msgid "Copies app password"
+msgid "Uygulama parolasını kopyala"
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:190
-msgid "Copy"
+msgid "Kopyala"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:396
-msgid "Copy link to list"
+msgid "Bağlantıyı listeye kopyala"
 msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:151
-msgid "Copy link to post"
+msgid "Bağlantıyı gönderiye kopyala"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:342
-msgid "Copy link to profile"
+msgid "Bağlantıyı profile kopyala"
 msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:137
-msgid "Copy post text"
+msgid "Gönderi metnini kopyala"
 msgstr ""
 
 #: src/Navigation.tsx:232
 #: src/view/screens/CopyrightPolicy.tsx:29
-msgid "Copyright Policy"
+msgid "Telif Hakkı Politikası"
 msgstr ""
 
 #: src/view/screens/ProfileFeed.tsx:95
@@ -1110,12 +1110,12 @@ msgstr ""
 
 #: src/view/com/lists/ListMembers.tsx:149
 msgctxt "action"
-msgid "Edit"
+msgid "Düzenle"
 msgstr ""
 
 #: src/view/com/composer/photos/Gallery.tsx:144
 #: src/view/com/modals/EditImage.tsx:207
-msgid "Edit image"
+msgid "Gördeli düzenle"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:411
