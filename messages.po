@@ -602,23 +602,23 @@ msgstr ""
 
 #: src/view/screens/Settings.tsx:662
 #: src/view/screens/Settings.tsx:671
-msgid "Change handle"
+msgid "Değişim tanıtıcı"
 msgstr ""
 
 #: src/view/com/modals/ChangeHandle.tsx:161
-msgid "Change Handle"
+msgid "Değişim tanıtıcı"
 msgstr ""
 
 #: src/view/com/modals/VerifyEmail.tsx:147
-msgid "Change my email"
+msgid "E-posta adresimi değiştir"
 msgstr ""
 
 #: src/view/com/composer/select-language/SuggestedLanguage.tsx:78
-msgid "Change post language to {0}"
+msgid "Gönderi dilini şu şekilde değiştir {0}"
 msgstr ""
 
 #: src/view/com/modals/ChangeEmail.tsx:109
-msgid "Change Your Email"
+msgid "E-posta adresimi değiştir"
 msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFeeds.tsx:121
