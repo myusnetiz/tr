@@ -651,7 +651,7 @@ msgid "Özel akışlarla deneyiminizi güçlendiren algoritmaları seçin."
 msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFeeds.tsx:65
-#~ msgid "Choose your"
+#~ msgid "Seçiminiz yapın"
 #~ msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:163
