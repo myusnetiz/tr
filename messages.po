@@ -1077,35 +1077,35 @@ msgid "Bitti{extraText}"
 msgstr ""
 
 #: src/view/com/auth/login/ChooseAccountForm.tsx:45
-msgid "Double tap to sign in"
+msgid "Oturum açmak için çift dokunun"
 msgstr ""
 
 #: src/view/com/modals/EditProfile.tsx:185
-msgid "e.g. Alice Roberts"
+msgid "Örneğin; Cahit Arf"
 msgstr ""
 
 #: src/view/com/modals/EditProfile.tsx:203
-msgid "e.g. Artist, dog-lover, and avid reader."
+msgid "Örneğin; sanatçı, hevesli bir okuyucu ve kedi sever."
 msgstr ""
 
 #: src/view/com/modals/CreateOrEditList.tsx:223
-msgid "e.g. Great Posters"
+msgid "örneğin Büyük Posterler"
 msgstr ""
 
 #: src/view/com/modals/CreateOrEditList.tsx:224
-msgid "e.g. Spammers"
+msgid "örneğin Spamcılar"
 msgstr ""
 
 #: src/view/com/modals/CreateOrEditList.tsx:244
-msgid "e.g. The posters who never miss."
+msgid "Örneğin hiç kaçırmayan posterler."
 msgstr ""
 
 #: src/view/com/modals/CreateOrEditList.tsx:245
-msgid "e.g. Users that repeatedly reply with ads."
+msgid "Örneğin, tekrar tekrar reklamlarla yanıt veren kullanıcılar."
 msgstr ""
 
 #: src/view/com/modals/InviteCodes.tsx:96
-msgid "Each code works once. You'll receive more invite codes periodically."
+msgid "Her kod bir kez çalışır. Belirli aralıklarla daha fazla davet kodu alacaksınız."
 msgstr ""
 
 #: src/view/com/lists/ListMembers.tsx:149
@@ -1115,41 +1115,41 @@ msgstr ""
 
 #: src/view/com/composer/photos/Gallery.tsx:144
 #: src/view/com/modals/EditImage.tsx:207
-msgid "Gördeli düzenle"
+msgid "Görseli düzenle"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:411
-msgid "Edit list details"
+msgid "Liste ayrıntılarını düzenle"
 msgstr ""
 
 #: src/view/com/modals/CreateOrEditList.tsx:192
-msgid "Edit Moderation List"
+msgid "Moderasyon Listesini Düzenle"
 msgstr ""
 
 #: src/Navigation.tsx:242
 #: src/view/screens/Feeds.tsx:371
 #: src/view/screens/SavedFeeds.tsx:84
-msgid "Edit My Feeds"
+msgid "Akışları Düzenle"
 msgstr ""
 
 #: src/view/com/modals/EditProfile.tsx:152
-msgid "Edit my profile"
+msgid "Profili düzenle"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:457
-msgid "Edit profile"
+msgid "Profili düzenle"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:462
-msgid "Edit Profile"
+msgid "Profili Düzenle"
 msgstr ""
 
 #: src/view/screens/Feeds.tsx:334
-msgid "Edit Saved Feeds"
+msgid "Kayıtlı Akışları Düzenle"
 msgstr ""
 
 #: src/view/com/modals/CreateOrEditList.tsx:187
-msgid "Edit User List"
+msgid "Kulanıcı Listesini Düzenle"
 msgstr ""
 
 #: src/view/com/modals/EditProfile.tsx:193
