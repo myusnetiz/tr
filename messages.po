@@ -622,32 +622,32 @@ msgid "E-posta adresimi değiştir"
 msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFeeds.tsx:121
-msgid "Check out some recommended feeds. Tap + to add them to your list of pinned feeds."
+msgid "Önerilen bazı yayınlara göz atın.  Bunları sabitlenmiş yayınlar listenize eklemek için +'ya dokunun."
 msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFollows.tsx:185
-msgid "Check out some recommended users. Follow them to see similar users."
+msgid "Önerilen bazı kullanıcılara göz atın.  Benzer kullanıcıları görmek için onları takip edin."
 msgstr ""
 
 #: src/view/com/modals/DeleteAccount.tsx:165
-msgid "Check your inbox for an email with the confirmation code to enter below:"
+msgid "Aşağıya girilecek onay kodunu içeren bir e-posta için gelen kutunuzu kontrol edin:"
 msgstr ""
 
 #: src/view/com/modals/Threadgate.tsx:72
-msgid "Choose \"Everybody\" or \"Nobody\""
+msgid "Seç \"Herkes\" veya \"Hiçkimse\""
 msgstr ""
 
 #: src/view/screens/Settings.tsx:663
-msgid "Choose a new Bluesky username or create"
+msgid "Yeni bir Bluesky kullanıcı adı seçin veya oluşturun"
 msgstr ""
 
 #: src/view/com/modals/ServerInput.tsx:38
-msgid "Choose Service"
+msgid "Hizmet Seçin"
 msgstr ""
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:83
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:83
-msgid "Choose the algorithms that power your experience with custom feeds."
+msgid "Özel akışlarla deneyiminizi güçlendiren algoritmaları seçin."
 msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFeeds.tsx:65
