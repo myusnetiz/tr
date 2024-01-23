@@ -441,19 +441,19 @@ msgid "Engelenen hesaplar"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:288
-msgid "Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you."
+msgid "Engellenen hesaplar iş parçacıklarınıza yanıt veremez, sizden söz edemez veya sizinle başka bir şekilde etkileşime giremez."
 msgstr ""
 
 #: src/view/screens/ModerationBlockedAccounts.tsx:115
-msgid "Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you. You will not see their content and they will be prevented from seeing yours."
+msgid "Engellenen hesaplar iş parçacıklarınıza yanıt veremez, sizden söz edemez veya sizinle herhangi bir şekilde etkileşime giremez. Onların içeriğini göremeyeceksiniz ve sizinkini görmeleri engellenecektir."
 msgstr ""
 
 #: src/view/com/post-thread/PostThread.tsx:254
-msgid "Blocked post."
+msgid "Engellenmiş gönderi."
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:317
-msgid "Blocking is public. Blocked accounts cannot reply in your threads, mention you, or otherwise interact with you."
+msgid "Engelleme herkese açıktır. Engellenen hesaplar konularınıza yanıt veremez, sizden bahsedemez veya sizinle herhangi bir şekilde etkileşime giremez."
 msgstr ""
 
 #: src/view/com/auth/HomeLoggedOutCTA.tsx:93
@@ -466,17 +466,17 @@ msgstr ""
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:80
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:80
-msgid "Bluesky is flexible."
+msgid "Bluesky esnek."
 msgstr ""
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:69
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:69
-msgid "Bluesky is open."
+msgid "Bluesky açık."
 msgstr ""
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:56
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:56
-msgid "Bluesky is public."
+msgid "Bluesky herkese açık."
 msgstr ""
 
 #: src/view/com/modals/Waitlist.tsx:70
