@@ -938,113 +938,113 @@ msgid "Karanlık"
 msgstr ""
 
 #: src/view/screens/Debug.tsx:63
-msgid "Dark mode"
+msgid "Karanlık kip"
 msgstr ""
 
 #: src/Navigation.tsx:204
-#~ msgid "Debug"
+#~ msgid "Hata Ayıklama"
 #~ msgstr ""
 
 #: src/view/screens/Debug.tsx:83
-msgid "Debug panel"
+msgid "Hata Ayıklama paneli"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:694
-msgid "Delete account"
+msgid "Hesap silme"
 msgstr ""
 
 #: src/view/com/modals/DeleteAccount.tsx:83
-msgid "Delete Account"
+msgid "Hesap Silme"
 msgstr ""
 
 #: src/view/screens/AppPasswords.tsx:222
 #: src/view/screens/AppPasswords.tsx:242
-msgid "Delete app password"
+msgid "Uygulama parolasını sil"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:363
 #: src/view/screens/ProfileList.tsx:423
-msgid "Delete List"
+msgid "Listeyi Sil"
 msgstr ""
 
 #: src/view/com/modals/DeleteAccount.tsx:219
-msgid "Delete my account"
+msgid "Hesabımı Sil"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:706
-msgid "Delete my account…"
+msgid "Hesabımı sil…"
 msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:226
-msgid "Delete post"
+msgid "Gönderiyi sil"
 msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:230
-msgid "Delete this post?"
+msgid "Bu içeriği silelim mi?"
 msgstr ""
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:69
-msgid "Deleted"
+msgid "Sil"
 msgstr ""
 
 #: src/view/com/post-thread/PostThread.tsx:246
-msgid "Deleted post."
+msgid "Silinmiş gönderi"
 msgstr ""
 
 #: src/view/com/modals/CreateOrEditList.tsx:237
 #: src/view/com/modals/CreateOrEditList.tsx:253
 #: src/view/com/modals/EditProfile.tsx:198
 #: src/view/com/modals/EditProfile.tsx:210
-msgid "Description"
+msgid "Açıklama"
 msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:96
-#~ msgid "Dev Server"
+#~ msgid "Geliştirici Sunucu"
 #~ msgstr ""
 
 #: src/view/screens/Settings.tsx:711
-msgid "Developer Tools"
+msgid "Geliştirici Araçları"
 msgstr ""
 
 #: src/view/com/composer/Composer.tsx:211
-msgid "Did you want to say anything?"
+msgid "Bir şey söylemek ister misin?"
 msgstr ""
 
 #: src/view/com/composer/Composer.tsx:144
-msgid "Discard"
+msgid "Çöp"
 msgstr ""
 
 #: src/view/com/composer/Composer.tsx:138
-msgid "Discard draft"
+msgid "Taslağı çöpe"
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:207
-msgid "Discourage apps from showing my account to logged-out users"
+msgid "Uygulamaların oturum açmış kullanıcılara hesabımı göstermesini engelleme"
 msgstr ""
 
 #: src/view/com/posts/FollowingEmptyState.tsx:74
 #: src/view/com/posts/FollowingEndOfFeed.tsx:75
-msgid "Discover new custom feeds"
+msgid "Yeni özel akışları keşfedin"
 msgstr ""
 
 #: src/view/screens/Feeds.tsx:409
-msgid "Discover new feeds"
+msgid "Yeni skışları keşfedin"
 msgstr ""
 
 #: src/view/com/modals/EditProfile.tsx:192
-msgid "Display name"
+msgid "Görünen ad"
 msgstr ""
 
 #: src/view/com/modals/EditProfile.tsx:180
-msgid "Display Name"
+msgid "Görünen Ad"
 msgstr ""
 
 #: src/view/com/modals/ChangeHandle.tsx:487
-msgid "Domain verified!"
+msgid "Alan adı doğrulandı!"
 msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:114
-msgid "Don't have an invite code?"
+msgid "Davet kodunuz yok mu?"
 msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFollows.tsx:86
@@ -1057,7 +1057,7 @@ msgstr ""
 #: src/view/com/modals/UserAddRemoveLists.tsx:82
 #: src/view/screens/PreferencesThreads.tsx:162
 msgctxt "action"
-msgid "Done"
+msgid "Bitti"
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:228
@@ -1069,11 +1069,11 @@ msgstr ""
 #: src/view/com/modals/InviteCodes.tsx:123
 #: src/view/com/modals/ListAddRemoveUsers.tsx:142
 #: src/view/screens/PreferencesHomeFeed.tsx:311
-msgid "Done"
+msgid "Bitti"
 msgstr ""
 
 #: src/view/com/modals/lang-settings/ConfirmLanguagesButton.tsx:42
-msgid "Done{extraText}"
+msgid "Bitti{extraText}"
 msgstr ""
 
 #: src/view/com/auth/login/ChooseAccountForm.tsx:45
