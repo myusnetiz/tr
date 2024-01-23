@@ -1634,93 +1634,93 @@ msgstr ""
 #~ msgstr ""
 
 #: src/view/com/modals/InAppBrowserConsent.tsx:44
-msgid "How should we open this link?"
+msgid "Bu bağlantıyı nasıl açmalıyız?"
 msgstr ""
 
 #: src/view/com/modals/VerifyEmail.tsx:214
-msgid "I have a code"
+msgid "Bir kodum var"
 msgstr ""
 
 #: src/view/com/modals/VerifyEmail.tsx:216
-msgid "I have a confirmation code"
+msgid "Bir onay kodum var"
 msgstr ""
 
 #: src/view/com/modals/ChangeHandle.tsx:283
-msgid "I have my own domain"
+msgid "Kendi alan adım var"
 msgstr ""
 
 #: src/view/com/lightbox/Lightbox.web.tsx:158
-msgid "If alt text is long, toggles alt text expanded state"
+msgid "Alt metin uzunsa, alt metin genişletilmiş durumuna geçer"
 msgstr ""
 
 #: src/view/com/modals/SelfLabel.tsx:127
-msgid "If none are selected, suitable for all ages."
+msgid "Hiçbiri seçilmemişse, her yaş için uygundur."
 msgstr ""
 
 #: src/view/com/util/images/Gallery.tsx:37
-msgid "Image"
+msgid "Görsel"
 msgstr ""
 
 #: src/view/com/modals/AltImage.tsx:97
-msgid "Image alt text"
+msgid "Görsel alt metin"
 msgstr ""
 
 #: src/view/com/util/UserAvatar.tsx:308
 #: src/view/com/util/UserBanner.tsx:116
-msgid "Image options"
+msgid "Görsel ayarları"
 msgstr ""
 
 #: src/view/com/search/Suggestions.tsx:104
 #: src/view/com/search/Suggestions.tsx:115
-#~ msgid "In Your Network"
+#~ msgid "Ağınızda"
 #~ msgstr ""
 
 #: src/view/com/auth/login/SetNewPasswordForm.tsx:110
-msgid "Input code sent to your email for password reset"
+msgid "Parola sıfırlama için epostanıza gönderilen giriş kodu"
 msgstr ""
 
 #: src/view/com/modals/DeleteAccount.tsx:180
-msgid "Input confirmation code for account deletion"
+msgid "Hesap silme için onay kodunu girin"
 msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:144
-msgid "Input email for Bluesky account"
+msgid "Bluesky hesabı için e-posta girişi"
 msgstr ""
 
 #: src/view/com/auth/create/Step2.tsx:109
-#~ msgid "Input email for Bluesky waitlist"
+#~ msgid "Bluesky bekleme listesi için e-posta girişi"
 #~ msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:80
-#~ msgid "Input hosting provider address"
+#~ msgid "Yer sağlayıcı adresini girin"
 #~ msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:102
-msgid "Input invite code to proceed"
+msgid "Devam etmek için davet kodunu girin"
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:182
-msgid "Input name for app password"
+msgid "Uygulama parolası için giriş adı"
 msgstr ""
 
 #: src/view/com/auth/login/SetNewPasswordForm.tsx:133
-msgid "Input new password"
+msgid "Yeni parola girin"
 msgstr ""
 
 #: src/view/com/modals/DeleteAccount.tsx:199
-msgid "Input password for account deletion"
+msgid "Hesap silme için parola gir"
 msgstr ""
 
 #: src/view/com/auth/create/Step2.tsx:194
-msgid "Input phone number for SMS verification"
+msgid "SMS doğrulaması için telefon numarasını girin"
 msgstr ""
 
 #: src/view/com/auth/login/LoginForm.tsx:227
-msgid "Input the password tied to {identifier}"
+msgid "Bağlı parolayı girin {tanımlayıcı}"
 msgstr ""
 
 #: src/view/com/auth/login/LoginForm.tsx:194
-msgid "Input the username or email address you used at signup"
+msgid "Kayıt sırasında kullandığınız kullanıcı adını veya eposta adresini girin"
 msgstr ""
 
 #: src/view/com/auth/create/Step2.tsx:268
