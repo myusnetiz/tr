@@ -136,11 +136,11 @@ msgid "Hesap engellendi"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:260
-msgid "Account muted"
+msgid "Hesap sessize alındı"
 msgstr ""
 
 #: src/view/com/modals/ModerationDetails.tsx:86
-msgid "Hesap sesize alındı"
+msgid "Hesap sessize alındı"
 msgstr ""
 
 #: src/view/com/modals/ModerationDetails.tsx:72
@@ -255,7 +255,7 @@ msgid "Gelişmiş"
 msgstr ""
 
 #: src/view/com/auth/login/ChooseAccountForm.tsx:98
-msgid "Zaten @ olarak oturum açtım{0}"
+msgid "Zaten @ olarak oturum açtın{0}"
 msgstr ""
 
 #: src/view/com/composer/photos/Gallery.tsx:130
@@ -289,72 +289,72 @@ msgid "ve"
 msgstr ""
 
 #: src/view/screens/LanguageSettings.tsx:95
-msgid "App Language"
+msgid "Uygulama Dili"
 msgstr ""
 
 #: src/view/screens/AppPasswords.tsx:228
-msgid "App password deleted"
+msgid "Uygulama patolası silindi"
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:133
-msgid "App Password names can only contain letters, numbers, spaces, dashes, and underscores."
+msgid "Uygulama Parolası adları yalnızca harf, rakam, boşluk, tire ve alt çizgi içerebilir."
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:98
-msgid "App Password names must be at least 4 characters long."
+msgid "Uygulama Parols adları en az 4 karakter uzunluğunda olmalıdır."
 msgstr ""
 
 #: src/view/screens/Settings.tsx:641
-msgid "App password settings"
+msgid "Uygulama parola ayarları"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:650
-msgid "App passwords"
+msgid "Uygulama parolası"
 msgstr ""
 
 #: src/Navigation.tsx:237
 #: src/view/screens/AppPasswords.tsx:187
-msgid "App Passwords"
+msgid "Uygulama parosı"
 msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:248
-msgid "Appeal content warning"
+msgid "İtiraz içeriği uyarısı"
 msgstr ""
 
 #: src/view/com/modals/AppealLabel.tsx:65
-msgid "Appeal Content Warning"
+msgid "İtiraz İçeriği Uyarısı"
 msgstr ""
 
 #: src/view/com/modals/AppealLabel.tsx:65
-#~ msgid "Appeal Decision"
+#~ msgid "İtiraz Kararı"
 #~ msgstr ""
 
 #: src/view/com/util/moderation/LabelInfo.tsx:52
-msgid "Appeal this decision"
+msgid "Bu karara itiraz ediniz."
 msgstr ""
 
 #: src/view/com/util/moderation/LabelInfo.tsx:56
-msgid "Appeal this decision."
+msgid "Bu karara itiraz ediniz."
 msgstr ""
 
 #: src/view/screens/Settings.tsx:460
-msgid "Appearance"
+msgid "Görünüş"
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:206
-#~ msgid "Apps that respect this setting, including the official Bluesky app and bsky.app website, won't show your content to logged out users."
+#~ msgid "Resmi Bluesky uygulaması ve bsky.app web sitesi de dahil olmak üzere bu ayara uyan uygulamalar, içeriğinizi oturumu kapatmış kullanıcılara göstermez."
 #~ msgstr ""
 
 #: src/view/screens/AppPasswords.tsx:224
-msgid "Are you sure you want to delete the app password \"{name}\"?"
+msgid "Uygulama şifresini silmek istediğinizden emin misiniz? \"{ad}\"?"
 msgstr ""
 
 #: src/view/com/composer/Composer.tsx:143
-msgid "Are you sure you'd like to discard this draft?"
+msgid "Bu taslağı çıkarmak istediğinize emin misiniz?"
 msgstr ""
 
 #: src/view/screens/ProfileList.tsx:364
-msgid "Are you sure?"
+msgid "Emin misin?"
 msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:231
