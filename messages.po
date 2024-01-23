@@ -1216,144 +1216,144 @@ msgid "Akış Sonu"
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:165
-msgid "Enter a name for this App Password"
+msgid "Bu Uygulama Parolası için bir ad girin"
 msgstr ""
 
 #: src/view/com/modals/VerifyEmail.tsx:105
-msgid "Enter Confirmation Code"
+msgid "Onay Kodunu Girin"
 msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:71
-#~ msgid "Enter the address of your provider:"
+#~ msgid "Sağlayıcınızın adresini girin:"
 #~ msgstr ""
 
 #: src/view/com/modals/ChangeHandle.tsx:371
-msgid "Enter the domain you want to use"
+msgid "Kullanmak istediğiniz alan adını girin"
 msgstr ""
 
 #: src/view/com/auth/login/ForgotPasswordForm.tsx:103
-msgid "Enter the email you used to create your account. We'll send you a \"reset code\" so you can set a new password."
+msgid "Hesabınızı oluşturmak için kullandığınız e-postayı girin. Yeni bir parola belirleyebilmeniz için size bir \"sıfırlama kodu\" göndereceğiz."
 msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:195
 #: src/view/com/modals/BirthDateSettings.tsx:74
-msgid "Enter your birth date"
+msgid "Doğum tarihinizi girin"
 msgstr ""
 
 #: src/view/com/modals/Waitlist.tsx:78
-msgid "Enter your email"
+msgid "E-posta adresinizi girin"
 msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:139
-msgid "Enter your email address"
+msgid "E-posta adresinizi girin"
 msgstr ""
 
 #: src/view/com/modals/ChangeEmail.tsx:41
-msgid "Enter your new email above"
+msgid "Yeni e-postanızı yukarıya girin"
 msgstr ""
 
 #: src/view/com/modals/ChangeEmail.tsx:117
-msgid "Enter your new email address below."
+msgid "Yeni e-posta adresinizi aşağıya girin."
 msgstr ""
 
 #: src/view/com/auth/create/Step2.tsx:186
-msgid "Enter your phone number"
+msgid "Telefon numaranızı girin"
 msgstr ""
 
 #: src/view/com/auth/login/Login.tsx:99
-msgid "Enter your username and password"
+msgid "Kullanıcı adınızı ve parolanızı girin"
 msgstr ""
 
 #: src/view/screens/Search/Search.tsx:107
-msgid "Error:"
+msgid "Hata:"
 msgstr ""
 
 #: src/view/com/modals/Threadgate.tsx:76
-msgid "Everybody"
+msgid "Herkes"
 msgstr ""
 
 #: src/view/com/modals/ChangeHandle.tsx:150
-msgid "Exits handle change process"
+msgid "Çıkışlar değişim sürecini ele alır"
 msgstr ""
 
 #: src/view/com/lightbox/Lightbox.web.tsx:113
-msgid "Exits image view"
+msgid "Görüntü görünümünden çıkar"
 msgstr ""
 
 #: src/view/com/modals/ListAddRemoveUsers.tsx:88
 #: src/view/shell/desktop/Search.tsx:235
-msgid "Exits inputting search query"
+msgid "Arama sorgusu girişinden çıkar"
 msgstr ""
 
 #: src/view/com/modals/Waitlist.tsx:138
-msgid "Exits signing up for waitlist with {email}"
+msgid "Bekleme listesine kaydolan çıkışlar {eposta}"
 msgstr ""
 
 #: src/view/com/lightbox/Lightbox.web.tsx:156
-msgid "Expand alt text"
+msgid "Alt metni genişletin"
 msgstr ""
 
 #: src/view/com/composer/ComposerReplyTo.tsx:81
 #: src/view/com/composer/ComposerReplyTo.tsx:84
-msgid "Expand or collapse the full post you are replying to"
+msgid "Yanıtladığınız gönderinin tamamını genişletin veya daraltın"
 msgstr ""
 
 #: src/view/com/modals/EmbedConsent.tsx:64
-msgid "External Media"
+msgid "Dış Ortam"
 msgstr ""
 
 #: src/view/com/modals/EmbedConsent.tsx:75
 #: src/view/screens/PreferencesExternalEmbeds.tsx:66
-msgid "External media may allow websites to collect information about you and your device. No information is sent or requested until you press the \"play\" button."
+msgid "Harici ortam, web sitelerinin siz ve cihazınız hakkında bilgi toplamasına izin verebilir. \"oynat\" tuşuna basana kadar bilgi gönderilir veya talep edilir."
 msgstr ""
 
 #: src/Navigation.tsx:258
 #: src/view/screens/PreferencesExternalEmbeds.tsx:52
 #: src/view/screens/Settings.tsx:623
-msgid "External Media Preferences"
+msgid "Harici Ortam Tercihleri"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:614
-msgid "External media settings"
+msgid "Harici ortam ayarları"
 msgstr ""
 
 #: src/view/com/modals/AddAppPasswords.tsx:114
 #: src/view/com/modals/AddAppPasswords.tsx:118
-msgid "Failed to create app password."
+msgid "Uygulama parolası oluşturulamadı."
 msgstr ""
 
 #: src/view/com/modals/CreateOrEditList.tsx:148
-msgid "Failed to create the list. Check your internet connection and try again."
+msgid "Liste oluşturulamadı. İnternet bağlantınızı kontrol edin ve tekrar deneyin."
 msgstr ""
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:86
-msgid "Failed to delete post, please try again"
+msgid "Gönderi silinemedi, lütfen tekrar deneyin"
 msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFeeds.tsx:109
 #: src/view/com/auth/onboarding/RecommendedFeeds.tsx:141
-msgid "Failed to load recommended feeds"
+msgid "Önerilen akışlar yüklenemedi"
 msgstr ""
 
 #: src/Navigation.tsx:192
-msgid "Feed"
+msgid "Akıl"
 msgstr ""
 
 #: src/view/com/feeds/FeedSourceCard.tsx:229
-msgid "Feed by {0}"
+msgid "Tarafından akışlar {0}"
 msgstr ""
 
 #: src/view/screens/Feeds.tsx:560
-msgid "Feed offline"
+msgid "Akış çevrimdışı"
 msgstr ""
 
 #: src/view/com/feeds/FeedPage.tsx:143
-msgid "Feed Preferences"
+msgid "Akış Tercihleri"
 msgstr ""
 
 #: src/view/shell/desktop/RightNav.tsx:73
 #: src/view/shell/Drawer.tsx:314
-msgid "Feedback"
+msgid "Geribildirim"
 msgstr ""
 
 #: src/Navigation.tsx:440
@@ -1363,7 +1363,7 @@ msgstr ""
 #: src/view/shell/desktop/LeftNav.tsx:342
 #: src/view/shell/Drawer.tsx:479
 #: src/view/shell/Drawer.tsx:480
-msgid "Feeds"
+msgid "Akışlar"
 msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFeeds.tsx:57
@@ -1371,75 +1371,75 @@ msgid "Feeds are created by users to curate content. Choose some feeds that you 
 msgstr ""
 
 #: src/view/screens/SavedFeeds.tsx:156
-msgid "Feeds are custom algorithms that users build with a little coding expertise. <0/> for more information."
+msgid "Akışlar, kullanıcılar tarafından içeriğin küratörlüğünü yapmak için oluşturulur. İlginç bulduğunuz bazı yayınları seçiniz."
 msgstr ""
 
 #: src/view/com/posts/CustomFeedEmptyState.tsx:47
 #: src/view/com/posts/FollowingEmptyState.tsx:57
 #: src/view/com/posts/FollowingEndOfFeed.tsx:58
-msgid "Find accounts to follow"
+msgid "Takip edilecek hesapları bulunuz"
 msgstr ""
 
 #: src/view/screens/Search/Search.tsx:429
-msgid "Find users on Bluesky"
+msgid "Bluesky'deki kullanıcıları bulunuz"
 msgstr ""
 
 #: src/view/screens/Search/Search.tsx:427
-msgid "Find users with the search tool on the right"
+msgid "Sağ taraftaki arama aracıyla kullanıcıları bulunuz"
 msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFollowsItem.tsx:150
-msgid "Finding similar accounts..."
+msgid "Benzer hesapları bulunuz..."
 msgstr ""
 
 #: src/view/screens/PreferencesHomeFeed.tsx:111
-msgid "Fine-tune the content you see on your home screen."
+msgid "Ana ekranınızda gördüğünüz içeriğe ince ayar yapın."
 msgstr ""
 
 #: src/view/screens/PreferencesThreads.tsx:60
-msgid "Fine-tune the discussion threads."
+msgid "Tartışma başlıklarına ince ayar yapın."
 msgstr ""
 
 #: src/view/com/modals/EditImage.tsx:115
-msgid "Flip horizontal"
+msgid "Yatay çevirme"
 msgstr ""
 
 #: src/view/com/modals/EditImage.tsx:120
 #: src/view/com/modals/EditImage.tsx:287
-msgid "Flip vertically"
+msgid "Dikey çevirme"
 msgstr ""
 
 #: src/view/com/profile/FollowButton.tsx:64
 msgctxt "action"
-msgid "Follow"
+msgid "Takip et"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:552
-msgid "Follow"
+msgid "Takip et"
 msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:543
-msgid "Follow {0}"
+msgid "Takip et {0}"
 msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFollows.tsx:42
-#~ msgid "Follow some"
+#~ msgid "Bazılarını takip ediniz"
 #~ msgstr ""
 
 #: src/view/com/auth/onboarding/RecommendedFollows.tsx:64
-msgid "Follow some users to get started. We can recommend you more users based on who you find interesting."
+msgid "Başlamak için bazı kullanıcıları takip ediniz. Kimleri ilginç bulduğunuza bağlı olarak size daha fazla kullanıcı önerebiliriz."
 msgstr ""
 
 #: src/view/com/profile/ProfileCard.tsx:194
-msgid "Followed by {0}"
+msgid "Takiben {0}"
 msgstr ""
 
 #: src/view/com/modals/Threadgate.tsx:98
-msgid "Followed users"
+msgid "Takip edilen kullanıcılar"
 msgstr ""
 
 #: src/view/screens/PreferencesHomeFeed.tsx:154
-msgid "Followed users only"
+msgid "Yalnızca takip edilen kullanıcılar"
 msgstr ""
 
 #: src/view/com/notifications/FeedItem.tsx:166
