@@ -655,74 +655,74 @@ msgstr ""
 #~ msgstr ""
 
 #: src/view/com/auth/create/Step1.tsx:163
-msgid "Choose your password"
+msgid "Parolanızı seçin"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:767
 #: src/view/screens/Settings.tsx:768
-msgid "Clear all legacy storage data"
+msgid "Tüm eski depolama verilerini temizle"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:770
-msgid "Clear all legacy storage data (restart after this)"
+msgid "Tüm eski depolama verilerini temizle (yeniden başlat)"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:779
 #: src/view/screens/Settings.tsx:780
-msgid "Clear all storage data"
+msgid "Tüm depolama verilerini temizle"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:782
-msgid "Clear all storage data (restart after this)"
+msgid "Tüm depolama verilerini temizle (yeniden başlat)"
 msgstr ""
 
 #: src/view/com/util/forms/SearchInput.tsx:74
 #: src/view/screens/Search/Search.tsx:590
-msgid "Clear search query"
+msgid "Arama sorgusunu temizle"
 msgstr ""
 
 #: src/view/screens/Support.tsx:40
-msgid "click here"
+msgid "buraya tıkla"
 msgstr ""
 
 #: src/components/Dialog/index.web.tsx:78
-msgid "Close active dialog"
+msgid "Etkin iletişim kurumu kapat"
 msgstr ""
 
 #: src/view/com/auth/login/PasswordUpdatedForm.tsx:38
-msgid "Close alert"
+msgid "Uyarıyı kapat"
 msgstr ""
 
 #: src/view/com/util/BottomSheetCustomBackdrop.tsx:33
-msgid "Close bottom drawer"
+msgid "Alt çekmeceyi kapat"
 msgstr ""
 
 #: src/view/com/lightbox/ImageViewing/components/ImageDefaultHeader.tsx:26
-msgid "Close image"
+msgid "Görseli kapat"
 msgstr ""
 
 #: src/view/com/lightbox/Lightbox.web.tsx:112
-msgid "Close image viewer"
+msgid "Görsel görüntüleyici kapat"
 msgstr ""
 
 #: src/view/shell/index.web.tsx:51
-msgid "Close navigation footer"
+msgid "Alt gezgini kapat"
 msgstr ""
 
 #: src/view/shell/index.web.tsx:52
-msgid "Closes bottom navigation bar"
+msgid "Alt gezinme çubuğunu kapa"
 msgstr ""
 
 #: src/view/com/auth/login/PasswordUpdatedForm.tsx:39
-msgid "Closes password update alert"
+msgid "Parola güncelleme uyarını kapatır"
 msgstr ""
 
 #: src/view/com/composer/Composer.tsx:302
-msgid "Closes post composer and discards post draft"
+msgid "Gönderi oluşturucu kapatır ve taslak gönderiyi çıkarır"
 msgstr ""
 
 #: src/view/com/lightbox/ImageViewing/components/ImageDefaultHeader.tsx:27
-msgid "Closes viewer for header image"
+msgid "Başlık görüntüsü için görseli kapatır"
 msgstr ""
 
 #: src/view/com/notifications/FeedItem.tsx:321
