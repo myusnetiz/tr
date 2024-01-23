@@ -726,20 +726,20 @@ msgid "Başlık görüntüsü için görseli kapatır"
 msgstr ""
 
 #: src/view/com/notifications/FeedItem.tsx:321
-msgid "Collapses list of users for a given notification"
+msgid "Belirli bir bildirim için kullanıcı listesini daraltır"
 msgstr ""
 
 #: src/Navigation.tsx:227
 #: src/view/screens/CommunityGuidelines.tsx:32
-msgid "Community Guidelines"
+msgid "Topluluk Kılavuzu"
 msgstr ""
 
 #: src/view/com/composer/Composer.tsx:417
-msgid "Compose posts up to {MAX_GRAPHEME_LENGTH} characters in length"
+msgid "En fazla {MAX_GRAPHEME_LENGTH} karakter uzunluğunda gönderi oluşturun"
 msgstr ""
 
 #: src/view/com/composer/Prompt.tsx:24
-msgid "Compose reply"
+msgid "Yanıt oluşturun"
 msgstr ""
 
 #: src/components/Prompt.tsx:114
@@ -749,45 +749,45 @@ msgstr ""
 #: src/view/com/modals/VerifyEmail.tsx:233
 #: src/view/screens/PreferencesHomeFeed.tsx:308
 #: src/view/screens/PreferencesThreads.tsx:159
-msgid "Confirm"
+msgid "Onaylayın"
 msgstr ""
 
 #: src/view/com/modals/Confirm.tsx:75
 #: src/view/com/modals/Confirm.tsx:78
 msgctxt "action"
-msgid "Confirm"
+msgid "Onaylayın"
 msgstr ""
 
 #: src/view/com/modals/ChangeEmail.tsx:193
 #: src/view/com/modals/ChangeEmail.tsx:195
-msgid "Confirm Change"
+msgid "Değişikliği Onaylayın"
 msgstr ""
 
 #: src/view/com/modals/lang-settings/ConfirmLanguagesButton.tsx:34
-msgid "Confirm content language settings"
+msgid "İçerik dili ayarlarını onaylayın"
 msgstr ""
 
 #: src/view/com/modals/DeleteAccount.tsx:216
-msgid "Confirm delete account"
+msgid "Hesap silmeyi onaylayın"
 msgstr ""
 
 #: src/view/com/modals/ContentFilteringSettings.tsx:151
-msgid "Confirm your age to enable adult content."
+msgid "Yetişkinlere yönelik içeriği etkinleştirmek için yaşınızı onaylayın."
 msgstr ""
 
 #: src/view/com/modals/ChangeEmail.tsx:157
 #: src/view/com/modals/DeleteAccount.tsx:178
 #: src/view/com/modals/VerifyEmail.tsx:165
-msgid "Confirmation code"
+msgid "Onay kodu"
 msgstr ""
 
 #: src/view/com/modals/Waitlist.tsx:120
-msgid "Confirms signing up {email} to the waitlist"
+msgid "Bekleme listesine kaydolmayı onaylar {e-posta}"
 msgstr ""
 
 #: src/view/com/auth/create/CreateAccount.tsx:175
 #: src/view/com/auth/login/LoginForm.tsx:275
-msgid "Connecting..."
+msgid "Bağlanıyor..."
 msgstr ""
 
 #: src/view/com/auth/create/CreateAccount.tsx:195
