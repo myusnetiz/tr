@@ -366,11 +366,11 @@ msgid "İçinde mi yazıyorsun <0>{0}</0>?"
 msgstr ""
 
 #: src/view/com/modals/SelfLabel.tsx:123
-msgid "Artistic or non-erotic nudity."
+msgid "Sanatsal veya erotik olmayan çıplaklık."
 msgstr ""
 
 #: src/view/screens/Moderation.tsx:189
-#~ msgid "Ask apps to limit the visibility of my account"
+#~ msgid "Uygulamalardan hesabımın görünürlüğünü sınırlamalarını isteyin"
 #~ msgstr ""
 
 #: src/view/com/auth/create/CreateAccount.tsx:142
@@ -389,7 +389,7 @@ msgstr ""
 
 #: src/view/com/post-thread/PostThread.tsx:400
 msgctxt "action"
-msgid "Back"
+msgid "Geri"
 msgstr ""
 
 #: src/view/screens/Settings.tsx:489
